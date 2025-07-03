@@ -42,7 +42,7 @@ This challenge also builds my public portfolio, contribution graph, and reputati
 
 ## 🖥️ Current Main Project: `nInjaOS`
 
-You can follow progress on [`nInjaOS`](https://github.com/<your-username>/nInjaOS) — my fully custom operating system written in Rust.
+You can follow progress on [`nInjaOS`](https://github.com/AaYuSh11233/nInjaOS.git) — my fully custom operating system written in Rust.
 
 Planned features:
 - [x] Bootloader with glowing logo animation
@@ -75,7 +75,7 @@ Examples of commit types:
 
 Sharing this publicly holds me accountable — and maybe inspires others to take on their own challenge.
 
-You can track my streak on [GitHub Contributions](https://github.com/<your-username>).
+You can track my streak on [GitHub Contributions](https://github.com/AaYuSh11233).
 
 ---
 
@@ -87,6 +87,6 @@ If you have suggestions, feedback, or just want to say hi — feel free to open 
 
 ---
 
-🫡 **“One repo at a time, I am building a legend.”**
+🫡 **“One repo at a time, I am building a my Dreams.”**
 
-— Ninja
+— Ayush
