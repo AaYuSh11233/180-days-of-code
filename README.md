@@ -90,3 +90,18 @@ If you have suggestions, feedback, or just want to say hi — feel free to open 
 🫡 **“One repo at a time, I am building a my Dreams.”**
 
 — Ayush
+
+
+---
+
+## 📅 Daily Log
+
+### 🗓️ July 4, 2025
+
+✅ **Today I made the bootloader of my `nInjaOS`.**  
+Tomorrow, on **July 5**, I’ll be adding the glowing animation and logo.  
+
+As of now, my `nInjaOS` repository is private — so I’ll be sharing all progress updates here in this README.  
+After about a month of development and polishing, I plan to make the repository public.
+
+Stay tuned for daily updates!
