@@ -99,7 +99,11 @@ If you have suggestions, feedback, or just want to say hi — feel free to open 
 ### 🗓️ July 4, 2025
 
 ✅ **Today I made the bootloader of my `nInjaOS`.**  
-Tomorrow, on **July 5**, I’ll be adding the glowing animation and logo.  
+
+### 🗓️ July 5, 2025
+
+✅ **Today add the booting logo and a circular loading animation of the bootloader of my `nInjaOS`.** 
+Tomorrow I will write the Graphics.rs file or update it more and add the wallpaper after booting.
 
 As of now, my `nInjaOS` repository is private — so I’ll be sharing all progress updates here in this README.  
 After about a month of development and polishing, I plan to make the repository public.
