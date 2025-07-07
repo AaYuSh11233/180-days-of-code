@@ -106,15 +106,15 @@ If you have suggestions, feedback, or just want to say hi — feel free to open 
 
 ### 🗓️ July 6, 2025
 
-✅ **Today I pushed one of my Old Project `Sentiment-analysis` It can predict and guess sentiment based on Image, Audio and Test input.
+✅ **Today I pushed one of my Old Project `Sentiment-analysis` It can predict and guess sentiment based on Image, Audio and Test input.**
 
 ### 🗓️ July 7, 2025
 
-✅ **Today I pushed `py-cord-bot` Which is a Discord Real Time Bot Which feeds on a text input like personality and then interects with user based on that personality.
+✅ **Today I pushed `py-cord-bot` Which is a Discord Real Time Bot Which feeds on a text input like personality and then interects with user based on that personality.**
 
-Took a week break till 13th or 14th July in the `nInjaOS` Project In the meantime or break period I will Upload The projects that are remaining or I already built but never published.
+## Took a week break till 13th or 14th July in the `nInjaOS` Project In the meantime or break period I will Upload The projects that are remaining or I already built but never published.
 
-On 13/14th July I will write the Graphics.rs file or update it more and add the wallpaper after booting.
+## On 13/14th July I will write the Graphics.rs file or update it more and add the wallpaper after booting.
 
 As of now, my `nInjaOS` repository is private — so I’ll be sharing all progress updates here in this README.  
 After about a month of development and polishing, I plan to make the repository public.
