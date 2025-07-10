@@ -120,6 +120,10 @@ If you have suggestions, feedback, or just want to say hi — feel free to open 
 
 ✅ **Today I haven't done much I took a day rest but to keep the streak and my commitment alive I go through some Repos and Made an Issue/Discussion in it**
 
+### 🗓️ July 10, 2025
+
+✅ **Today I worked on project called `Kollab` it's a Group Collaborative Editor, as of current time 14:45 it is not published It will be in my github by the end of 10 July**
+
 ## Took a week break till 13th or 14th July in the `nInjaOS` Project In the meantime or break period I will Upload The projects that are remaining or I already built but never published.
 
 ## On 13/14th July I will write the Graphics.rs file or update it more and add the wallpaper after booting.
