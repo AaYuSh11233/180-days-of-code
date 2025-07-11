@@ -122,7 +122,7 @@ If you have suggestions, feedback, or just want to say hi — feel free to open 
 
 ### 🗓️ July 10, 2025
 
-✅ **Today I worked on project called `Kollab` it's a Group Collaborative Editor, as of current time 14:45 it is not published It will be in my github by the end of 10 July**
+✅ **Today I worked on project called `Kollab` it's a Group Collaborative Editor, as of today it is not published It will be in my github by the end of 11 July**
 
 ## Took a week break till 13th or 14th July in the `nInjaOS` Project In the meantime or break period I will Upload The projects that are remaining or I already built but never published.
 
