@@ -124,6 +124,10 @@ If you have suggestions, feedback, or just want to say hi — feel free to open 
 
 ✅ **Today I worked on project called `Kollab` it's a Group Collaborative Editor, as of today it is not published It will be in my github by the end of 11 July**
 
+### 🗓️ July 11, 2025
+
+✅ **Today I published the project called `Kollab` the MVP of which I finished yesterday** 
+
 ## Took a week break till 13th or 14th July in the `nInjaOS` Project In the meantime or break period I will Upload The projects that are remaining or I already built but never published.
 
 ## On 13/14th July I will write the Graphics.rs file or update it more and add the wallpaper after booting.
