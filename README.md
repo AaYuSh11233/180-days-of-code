@@ -128,9 +128,13 @@ If you have suggestions, feedback, or just want to say hi — feel free to open 
 
 ✅ **Today I published the project called `Kollab` the MVP of which I finished yesterday** 
 
+### 🗓️ July 12, 2025
+
+✅ **Today I published the project called `LogAnalyzer` a log analysis and visualization tool built with Streamlit that supports multiple log formats.**
+
 ## Took a week break till 13th or 14th July in the `nInjaOS` Project In the meantime or break period I will Upload The projects that are remaining or I already built but never published.
 
-## On 13/14th July I will write the Graphics.rs file or update it more and add the wallpaper after booting.
+## On 16th July I will write the Graphics.rs file or update it more and add the wallpaper after booting.
 
 As of now, my `nInjaOS` repository is private — so I’ll be sharing all progress updates here in this README.  
 After about a month of development and polishing, I plan to make the repository public.
