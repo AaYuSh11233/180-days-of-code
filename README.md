@@ -146,7 +146,15 @@ If you have suggestions, feedback, or just want to say hi — feel free to open 
 
 ### 🗓️ July 16, 2025
 
-✅ **Today I was working on my research paper**
+✅ **Working on my research paper Day - 1**
+
+### 🗓️ July 17, 2025
+
+✅ **Working on my research paper Day - 2**
+
+### 🗓️ July 18, 2025
+
+✅ **Working on my research paper Day - 3**
 
 ## Took a week break till 13th or 14th July in the `nInjaOS` Project In the meantime or break period I will Upload The projects that are remaining or I already built but never published.
 
