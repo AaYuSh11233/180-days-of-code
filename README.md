@@ -156,9 +156,17 @@ If you have suggestions, feedback, or just want to say hi — feel free to open 
 
 ✅ **Working on my research paper Day - 3**
 
-### 🗓️ July 18, 2025
+### 🗓️ July 19, 2025
 
 ✅ **Update the bootloading for my nInjaOS a bit more**
+
+### 🗓️ July 20, 2025
+
+✅ **Spent alone time at camping in the nature overnight**
+
+### 🗓️ July 21, 2025
+
+✅ **Updated the Backend of my `Vortex-AI` and pushed**
 
 ## Took a week break till 13th or 14th July in the `nInjaOS` Project In the meantime or break period I will Upload The projects that are remaining or I already built but never published.
 
