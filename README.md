@@ -168,9 +168,15 @@ If you have suggestions, feedback, or just want to say hi — feel free to open 
 
 ✅ **Updated the Backend of my `Vortex-AI` and pushed**
 
-## Took a week break till 13th or 14th July in the `nInjaOS` Project In the meantime or break period I will Upload The projects that are remaining or I already built but never published.
+### 🗓️ July 22, 2025
 
-## On 16th July I will write the Graphics.rs file or update it more and add the wallpaper after booting.
+✅ **Updated the Backend of my `Vortex-AI` and pushed**
+
+### 🗓️ July 23, 2025
+
+✅ **Working on `Auralis` a Side Project**
+
+##My mom's health got deteriorated may stop working for sometime but to keep my streak alive I will edit this readme. (23-07-25) 
 
 As of now, my `nInjaOS` repository is private — so I’ll be sharing all progress updates here in this README.  
 After about a month of development and polishing, I plan to make the repository public.
