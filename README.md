@@ -180,6 +180,10 @@ If you have suggestions, feedback, or just want to say hi — feel free to open 
 
 ✅ **Working on `Auralis` a Side Project and on `nInjaOS`**
 
+### 🗓️ July 25, 2025
+
+✅ **Working on a idea with a team of 5**
+
 ##My mom's health got deteriorated may stop working for sometime but to keep my streak alive I will edit this readme. (23-07-25) 
 
 As of now, my `nInjaOS` repository is private — so I’ll be sharing all progress updates here in this README.  
